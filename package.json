@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/alhoyosa/Prueva-2IA/issues"
   },
-  "homepage": "https://github.com/alhoyosa/Prueva-2IA#readme"
+  "homepage": "https://github.com/alhoyosa/Prueva-2IA#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
