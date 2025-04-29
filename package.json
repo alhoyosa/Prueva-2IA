@@ -1,0 +1,20 @@
+{
+  "name": "prueva-2ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vulnerabilidad1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alhoyosa/Prueva-2IA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alhoyosa/Prueva-2IA/issues"
+  },
+  "homepage": "https://github.com/alhoyosa/Prueva-2IA#readme"
+}
